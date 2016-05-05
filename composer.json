@@ -1,0 +1,15 @@
+{
+	"name" : "asphel/phpqrcode",
+	"description" : "copy of the PHP QR Code project: http://phpqrcode.sourceforge.net",
+	"homepage" : "https://github.com/JackSzwergold/phpqrcode",
+	"license" : "MIT",
+	"authors" : [{
+			"name" : "",
+			"email" : ""
+		}
+	],
+	"require" : {},
+	"autoload" : {
+		"classmap" : [""]
+	}
+}
